@@ -1,0 +1,30 @@
+Removed Diseases,Reason for Removal,Reference
+Tyzzer's disease,"Tyzzer's disease does not generally infect humans. If it infects humans, person is usually immunocompromised.",https://www.vet.upenn.edu/research/centers-laboratories/research-initiatives/wildlife-futures-program/resources/fact-sheets/fact-sheet-detail/tyzzer's-disease
+Actinomycosis,Bacteria from one part of the body travels to another part of the body which may cause infection,https://medlineplus.gov/ency/article/000599.htm
+Verruga peruana,Included in the final data set along with Carrion's Disease. It is the second part of infection if patient survives Oroya Fever.,
+Myocarditis,Myocarditis can be caused by a variety of reasons; hard to parse CFR from myocarditis specifically for Cardiovirus A.,
+Vilyuisk encephalitis,Pathogen that causes disease is NOT confirmed,Lipton et al. 2008
+Gas gangrene,Infection develops at a site of injury or trauma,https://medlineplus.gov/ency/article/000620.htm
+Erythrasma,"Not infectious, commensal bacteria grows in moist conditions",https://www.ncbi.nlm.nih.gov/books/NBK513352/
+Lemierre's syndrome,Infection occurs when bacteria  travels to another part of the body and releases toxins.,https://rarediseases.info.nih.gov/diseases/6882/lemierre-syndrome
+Hepatitis D,Patients with Hepatitis D must be co-infected with Hepatitis B. ,https://www.cdc.gov/hepatitis/hdv/index.htm
+Kaposi's sarcoma; Kaposi sarcoma,People with Kaposi sarcoma usually have compromised immune systems,"https://www.hopkinsmedicine.org/health/conditions-and-diseases/sarcoma/kaposi-sarcoma#:~:text=What%20is%20the%20prognosis%20for,survival%20is%20about%2072%20percent."
+Progressive multifocal leukoencephalopathy,Infects immunocompromised patients.,https://www.ninds.nih.gov/Disorders/All-Disorders/Progressive-Multifocal-Leukoencephalopathy-Information-Page
+Pontiac fever; Legionellosis; Legionaire's disease,"Included in final data set as separate diseases: ""Pontiac Fever"" and ""Legionellosis; Legionnaires' disease""",
+Legionnaires' disease,"Included in final data set as ""Legionellosis; Legionnaires' disease""",
+Acne,Not infectious.,
+Farmer's lung,Spores that cause Farmer's Lung are not infectious. The spores cause an allergic reaction which triggers the body's immune system.,https://www.ccohs.ca/oshanswers/diseases/farmers_lung.html
+Whipple's disease,Unknown how people become infected ,https://rarediseases.info.nih.gov/diseases/7889/whipple-disease
+Wesselsbron disease,Humans have only been infected in lab or during autopsies,https://www.cfsph.iastate.edu/Factsheets/pdfs/wesselsbron.pdf
+,,
+,,
+,,
+Renamed Pathogens,Notes,
+Madura foot; Mycetoma,"Included in final data set as ""Mycetoma""",
+Human granulocytic ehrlichiosis; Anaplasmosis,"Included in final data set as ""Anaplasmosis""",
+Borreliosis,"Included in final data set as ""Lyme Disease""",
+Lyme borreliosis,"Included in final data set as ""Lyme Disease""",
+Lyme disease; Lyme borreliosis,"Included in final data set as ""Lyme Disease""",
+Chlamydia; Trachoma,Included in final dataset as separate diseases.,
+Ehrlichiosis; Human monocytic ehrlichiosis,"Included in final data set as ""Ehrlichiosis""",
+Rocky Mountain spotted feveræ,"Typo. Included in final data set as ""Rocky Mountain spotted fever""",
