@@ -1,0 +1,157 @@
+,Species,Family,Disease,Reservoir_order,spill_type,CFR_avg,transmission_route,Cell,Type,Motility,Spore,PubMed.records.log,transmissibility
+1,Alagoas vesiculovirus,Rhabdoviridae,Alagoas vesiculovirus,CETARTIODACTYLA,direct,0,vector,Obligate intracellular,Virus,NA,NA,0.60206,1
+2,Anaplasma phagocytophilum,Anaplasmataceae,Anaplasmosis,RODENTIA,direct,0.006,vector,Obligate intracellular,Bacteria,Non-motile,No,3.194514,1
+3,Andes hantavirus,Bunyaviridae,Hantavirus cardiopulmonary syndrome,RODENTIA,direct,0.31,via_environment,Obligate intracellular,Virus,NA,NA,1.579784,2
+4,Australian bat lyssavirus,Rhabdoviridae,Australian bat lyssavirus,CHIROPTERA,direct,1,animal_bite,Obligate intracellular,Virus,NA,NA,2.267172,1
+5,Bacillus anthracis,Bacillaceae,Anthrax,ENVIRONMENT,direct,0.125,via_environment,Extracellular,Bacteria,Non-motile,Yes,3.6797,1
+6,Banzi virus,Flaviviridae,Banzi virus,RODENTIA,direct,0,vector,Obligate intracellular,Virus,NA,NA,1.50515,1
+7,Bartonella bacilliformis,Bartonellaceae,Carrion's disease; Oroya fever; Verruga peruana,PRIMATES,not_zoonotic,0.88,vector,Facultative intracellular,Bacteria,Motile,No,2.363612,4
+8,Bartonella clarridgeiae,Bartonellaceae,Cat scratch disease,CARNIVORA,direct,0,animal_bite,Facultative intracellular,Bacteria,Motile,No,2.049218,1
+9,Bartonella quintana,Bartonellaceae,Trench fever,PRIMATES,not_zoonotic,0,vector,Facultative intracellular,Bacteria,Motile,No,2.576341,4
+10,Bayou hantavirus,Bunyaviridae,Hantavirus cardiopulmonary syndrome,RODENTIA,direct,0.2,via_environment,Obligate intracellular,Virus,NA,NA,0.778151,1
+11,Black Creek Canal orthohantavirus,Bunyaviridae,Black Creek Canal orthohantavirus,RODENTIA,direct,0,via_environment,Obligate intracellular,Virus,NA,NA,2.037426,1
+12,Bordetella pertussis,Alcaligenaceae,"Pertussis, Whooping cough",PRIMATES,not_zoonotic,0.025,respiratory_droplets,Extracellular,Bacteria,Non-motile,No,3.733358,4
+13,Borrelia crocidurae,Borreliaceae,Tick-borne relapsing fever,RODENTIA,direct,0.075,vector,Extracellular,Bacteria,Motile,No,1.716003,1
+14,Borrelia duttonii,Borreliaceae,East African tick-borne relapsing fever,PRIMATES,direct,0.00556,vector,Extracellular,Bacteria,Motile,No,1.740363,1
+15,Borrelia recurrentis,Borreliaceae,Louse-borne relapsing fever,PRIMATES,not_zoonotic,0.5,vector,Extracellular,Bacteria,Motile,No,2.068186,4
+16,Borreliella afzelii,Borreliaceae,Lyme Disease,RODENTIA,direct,1.00E-05,vector,Extracellular,Bacteria,Motile,No,0.477121,1
+17,Bovine papular stomatitis virus,Poxviridae,Bovine papular stomatitis virus,CETARTIODACTYLA,direct,0,skin_contact,Obligate intracellular,Virus,NA,NA,1.845098,1
+18,Brazilian mammarenavirus,Arenaviridae,Brazilian mammarenavirus,RODENTIA,direct,0.333333,via_environment,Obligate intracellular,Virus,NA,NA,2.049218,1
+19,Brucella abortus,Brucellaceae,Brucellosis,CETARTIODACTYLA,direct,0.035,via_environment,Facultative intracellular,Bacteria,Non-motile,No,3.56632,1
+20,Brucella canis,Brucellaceae,Brucellosis,CARNIVORA,direct,0.035,via_environment,Facultative intracellular,Bacteria,Non-motile,No,2.517196,1
+21,Bundibugyo ebolavirus,Filoviridae,Ebola hemorrhagic fever,CHIROPTERA,direct,0.76,bodily_fluids,Obligate intracellular,Virus,NA,NA,1.414973,3
+22,Burkholderia mallei,Burkholderiaceae,Glanders,PERISSODACTYLA,direct,0.95,bodily_fluids,Facultative intracellular,Bacteria,Non-motile,No,2.545307,1
+23,Burkholderia pseudomallei,Burkholderiaceae,Melioidosis,ENVIRONMENT,direct,0.9,via_environment,Facultative intracellular,Bacteria,Motile,No,3.365862,1
+24,California encephalitis orthobunyavirus,Bunyaviridae,California encephalitis,PERISSODACTYLA,bridged,0,vector,Obligate intracellular,Virus,NA,NA,0.30103,1
+25,Camelpox virus,Poxviridae,Camelpox,CETARTIODACTYLA,direct,0,skin_contact,Obligate intracellular,Virus,NA,NA,1.897627,1
+26,Caraparu orthobunyavirus,Bunyaviridae,Caraparu orthobunyavirus,PRIMATES,direct,0,vector,Obligate intracellular,Virus,NA,NA,0.477121,1
+27,Changuinola virus,Reoviridae,Changuinola virus,PILOSA,direct,0,vector,Obligate intracellular,Virus,NA,NA,1.176091,1
+28,Chapare mammarenavirus,Arenaviridae,Chapare mammarenavirus,RODENTIA,direct,0.666667,via_environment,Obligate intracellular,Virus,NA,NA,1.944483,1
+29,Chikungunya virus,Togaviridae,Chikungunya,PRIMATES,direct,6.00E-04,vector,Obligate intracellular,Virus,NA,NA,3.41044,4
+30,Chlamydia trachomatis,Chlamydiaceae,Trachoma,PRIMATES,not_zoonotic,0,skin_contact,Obligate intracellular,Bacteria,Non-motile,No,4.114144,4
+31,Chlamydia trachomatis,Chlamydiaceae,Chlamydia,PRIMATES,not_zoonotic,3.90E-06,bodily_fluids,Obligate intracellular,Bacteria,Non-motile,No,4.114144,4
+32,Choclo orthohantavirus,Bunyaviridae,Choclo orthohantavirus,RODENTIA,direct,0.2,via_environment,Obligate intracellular,Virus,NA,NA,0.30103,1
+33,Clostridium botulinum,Clostridiaceae,Botulism,ENVIRONMENT,direct,0.075,via_environment,Extracellular,Bacteria,Motile,Yes,3.567497,1
+34,Clostridium tetani,Clostridiaceae,Tetanus,ENVIRONMENT,direct,0.13,via_environment,Extracellular,Bacteria,Motile,Yes,2.773055,1
+35,Colorado tick fever virus,Reoviridae,Colorado tick fever; Mountain tick fever; American tick fever,RODENTIA,direct,0.013,vector,Obligate intracellular,Virus,NA,NA,1.875061,1
+36,Corynebacterium diphtheriae,Corynebacteriaceae,Diptheria,PRIMATES,not_zoonotic,0.29,respiratory_droplets,Extracellular,Bacteria,Non-motile,No,3.266702,4
+37,Cowpox virus,Poxviridae,Cowpox,RODENTIA,bridged,0,skin_contact,Obligate intracellular,Virus,NA,NA,2.793092,1
+38,Coxiella burnetii,Coxiellaceae,Q fever,CETARTIODACTYLA,direct,0.25,via_environment,Obligate intracellular,Bacteria,Non-motile,Yes,3.509068,1
+39,Crimean-Congo hemorrhagic fever nairovirus,Bunyaviridae,Crimean-Congo haemorrhagic fever,VECTOR,direct,0.25,vector,Obligate intracellular,Virus,NA,NA,0.30103,1
+40,Dengue virus,Flaviviridae,Dengue fever; Dengue shock syndrome,PRIMATES,direct,0.00116,vector,Obligate intracellular,Virus,NA,NA,3.945025,4
+41,Dobrava-Belgrade hantavirus,Bunyaviridae,Hantavirus cardiopulmonary syndrome,RODENTIA,direct,0.12,via_environment,Obligate intracellular,Virus,NA,NA,1.20412,1
+42,Duvenhage lyssavirus,Rhabdoviridae,Duvenhage lyssavirus,CHIROPTERA,direct,1,animal_bite,Obligate intracellular,Virus,NA,NA,2.167317,1
+43,Eastern equine encephalitis virus,Togaviridae,Eastern equine encephalitis; Triple E; Sleeping sickness,AVES,direct,0.33,vector,Obligate intracellular,Virus,NA,NA,2.466868,1
+44,Edwardsiella tarda,Hafniaceae,Edwardsiellosis,FISH,direct,0.283,via_environment,Facultative intracellular,Bacteria,Motile,No,2.943989,1
+45,Ehrlichia ewingii,Anaplasmataceae,Ehrlichiosis,CETARTIODACTYLA,direct,0.018,vector,Obligate intracellular,Bacteria,Non-motile,No,2.033424,1
+46,Enterovirus A,Picornaviridae,"Hand, foot and mouth disease",PRIMATES,direct,0,skin_contact,Obligate intracellular,Virus,NA,NA,2.049218,4
+47,Enterovirus C,Picornaviridae,Poliomyelitis; Polio; Infantile paralysis,PRIMATES,not_zoonotic,0.043,via_environment,Obligate intracellular,Virus,NA,NA,1.763428,4
+48,Erysipelothrix rhusiopathiae,Erysipelotrichaceae,Erysipeloid,CETARTIODACTYLA,direct,0.38,skin_contact,Facultative intracellular,Bacteria,Non-motile,No,2.902003,1
+49,European bat 1 lyssavirus,Rhabdoviridae,European bat 1 lyssavirus,CHIROPTERA,direct,1,animal_bite,Obligate intracellular,Virus,NA,NA,2.064458,1
+50,European bat 2 lyssavirus,Rhabdoviridae,European bat 2 lyssavirus,CHIROPTERA,direct,1,animal_bite,Obligate intracellular,Virus,NA,NA,1.886491,1
+51,Fluoribacter bozemanae,Legionellaceae,Legionellosis; Legionnaires' disease,ENVIRONMENT,not_zoonotic,0.1,via_environment,Facultative intracellular,Bacteria,Motile,No,0.69897,1
+52,Foot-and-mouth disease virus,Picornaviridae,Foot-and-mouth disease,CETARTIODACTYLA,direct,0,skin_contact,Obligate intracellular,Virus,NA,NA,3.625518,1
+53,Francisella tularensis,Francisellaceae,Tularemia,LAGOMORPHA,direct,0.175,vector,Facultative intracellular,Bacteria,Non-motile,No,3.410946,1
+54,Francisella tularensis,Francisellaceae,Tularemia,RODENTIA,direct,0.175,vector,Facultative intracellular,Bacteria,Non-motile,No,3.410946,1
+55,Guanarito mammarenavirus,Arenaviridae,Venezuelan hemorrhagic fever,RODENTIA,direct,0.333333,via_environment,Obligate intracellular,Virus,NA,NA,0.60206,1
+56,Haemophilus aegyptius,Pasteurellaceae,Koch-Weeks bacillus; Brazilian Purpuric Fever,PRIMATES,not_zoonotic,0.65,respiratory_droplets,Facultative intracellular,Bacteria,Non-motile,No,1.778151,4
+57,Haemophilus ducreyi,Pasteurellaceae,Chancroid,PRIMATES,not_zoonotic,0,skin_contact,Extracellular,Bacteria,Non-motile,No,2.908485,4
+58,Hantaan hantavirus,Bunyaviridae,Korean hemorrhagic fever,RODENTIA,direct,0.1,via_environment,Obligate intracellular,Virus,NA,NA,0.477121,1
+59,Hendra henipavirus,Paramyxoviridae,Hendra henipavirus,CHIROPTERA,bridged,0.571429,bodily_fluids,Obligate intracellular,Virus,NA,NA,2.982723,1
+60,Hepatitis C virus,Flaviviridae,Hepatitis C,PRIMATES,not_zoonotic,3.72E-05,bodily_fluids,Obligate intracellular,Virus,NA,NA,4.720259,4
+61,Hepatovirus A,Picornaviridae,Hepatitis A,PRIMATES,not_zoonotic,0.415,bodily_fluids,Obligate intracellular,Virus,NA,NA,0.60206,4
+62,Human alphaherpesvirus 1,Herpesviridae,Cold sore; Oral herpes,PRIMATES,not_zoonotic,0,skin_contact,Obligate intracellular,Virus,NA,NA,0.845098,4
+63,Human alphaherpesvirus 2,Herpesviridae,Genital herpes,PRIMATES,not_zoonotic,0,skin_contact,Obligate intracellular,Virus,NA,NA,0.30103,4
+64,Human alphaherpesvirus 3,Herpesviridae,Chickenpox; Varicella; Herpes zoster; Shingles,PRIMATES,not_zoonotic,0.00031,skin_contact,Obligate intracellular,Virus,NA,NA,1.653213,4
+65,Human betaherpesvirus 6B,Herpesviridae,Roseola; Roseola infantum; Exanthema subitum; Sixth disease,PRIMATES,not_zoonotic,0,respiratory_droplets,Obligate intracellular,Virus,NA,NA,1.491362,4
+66,Human gammaherpesvirus 4,Herpesviridae,Infectious mononucleosis; Glandular fever,PRIMATES,not_zoonotic,NA,bodily_fluids,Obligate intracellular,Virus,NA,NA,0.30103,4
+67,Human immunodeficiency virus 1,Retroviridae,AIDS; Aquired immunodeficiency syndrome,PRIMATES,not_zoonotic,1,bodily_fluids,Obligate intracellular,Virus,NA,NA,3.522575,4
+68,Ilheus virus,Flaviviridae,Ilheus virus,AVES,direct,0,vector,Obligate intracellular,Virus,NA,NA,1.919078,1
+69,Indiana vesiculovirus,Rhabdoviridae,Vesicular stomatitis,CETARTIODACTYLA,direct,0,vector,Obligate intracellular,Virus,NA,NA,0.30103,1
+70,Influenza A virus,Orthomyxoviridae,Influenza,AVES,bridged,0.000205,respiratory_droplets,Obligate intracellular,Virus,NA,NA,4.026697,4
+71,Irkut lyssavirus,Rhabdoviridae,Irkut lyssavirus,CHIROPTERA,direct,1,animal_bite,Obligate intracellular,Virus,NA,NA,1.875061,1
+72,Japanese encephalitis virus,Flaviviridae,Japanese encephalitis,AVES,bridged,0.25,vector,Obligate intracellular,Virus,NA,NA,3.421768,1
+73,Junin mammarenavirus,Arenaviridae,Argentine hemorrhagic fever,RODENTIA,direct,0.225,via_environment,Obligate intracellular,Virus,NA,NA,0.477121,1
+74,Klebsiella granulomatis,Enterobacteriaceae,Granuloma inguinale; Donovanosis,PRIMATES,not_zoonotic,0,bodily_fluids,Facultative intracellular,Bacteria,Non-motile,No,1.278754,4
+75,Kokobera virus,Flaviviridae,Kokobera virus,DIPROTODONTIA,direct,0,vector,Obligate intracellular,Virus,NA,NA,1.69897,1
+76,Kyasanur Forest disease virus,Flaviviridae,Kyasanur Forest disease,PRIMATES,direct,0.04,vector,Obligate intracellular,Virus,NA,NA,2,1
+77,Laguna Negra hantavirus,Bunyaviridae,Hantavirus cardiopulmonary syndrome,RODENTIA,direct,0.15,via_environment,Obligate intracellular,Virus,NA,NA,0.477121,1
+78,Lassa mammarenavirus,Arenaviridae,Lassa fever; Lassa hemorrhagic fever,RODENTIA,direct,0.01,bodily_fluids,Obligate intracellular,Virus,NA,NA,0.30103,3
+79,Legionella anisa,Legionellaceae,Pontiac fever,ENVIRONMENT,not_zoonotic,0,via_environment,Facultative intracellular,Bacteria,Motile,No,1.690196,1
+80,Leptospira borgpetersenii,Leptospiraceae,Leptospirosis,RODENTIA,direct,0.1,via_environment,Extracellular,Bacteria,Motile,No,2.184691,1
+81,Louping ill virus,Flaviviridae,Louping-ill,CETARTIODACTYLA,direct,0.022222,vector,Obligate intracellular,Virus,NA,NA,2.164353,1
+82,Lujo mammarenavirus,Arenaviridae,Lujo mammarenavirus,RODENTIA,direct,0.8,via_environment,Obligate intracellular,Virus,NA,NA,2.227887,1
+83,Lymphocytic choriomeningitis mammarenavirus,Arenaviridae,Lymphocytic choriomeningitis,RODENTIA,direct,0.01,via_environment,Obligate intracellular,Virus,NA,NA,0.69897,1
+84,Macacine alphaherpesvirus 1,Herpesviridae,B virus infection,PRIMATES,direct,0.8,animal_bite,Obligate intracellular,Virus,NA,NA,0.778151,1
+85,Machupo mammarenavirus,Arenaviridae,Bolivian hemorrhagic fever; Black typhus; Ordog fever,RODENTIA,direct,0.3,via_environment,Obligate intracellular,Virus,NA,NA,0.477121,2
+86,Marburg marburgvirus,Filoviridae,Marburg hemorrhagic fever,CHIROPTERA,direct,0.809199,bodily_fluids,Obligate intracellular,Virus,NA,NA,1.176091,3
+87,Measles virus,Paramyxoviridae,Measles; Rubeola,PRIMATES,not_zoonotic,0.157128,respiratory_droplets,Obligate intracellular,Virus,NA,NA,3.764176,4
+88,Middle East respiratory syndrome-related coronavirus,Coronaviridae,Middle East respiratory syndrome-related coronavirus,CHIROPTERA,bridged,0.344211,respiratory_droplets,Obligate intracellular,Virus,NA,NA,0,3
+89,Molluscum contagiosum virus,Poxviridae,Molluscum contagiosum; Water warts,PRIMATES,not_zoonotic,0,skin_contact,Obligate intracellular,Virus,NA,NA,2.383815,4
+90,Monkeypox virus,Poxviridae,Monkeypox,RODENTIA,direct,0.055,bodily_fluids,Obligate intracellular,Virus,NA,NA,2.523746,2
+91,Murray Valley encephalitis virus,Flaviviridae,Murray Valley encephalitis; Australian encephalitis,AVES,direct,0.225,vector,Obligate intracellular,Virus,NA,NA,2.30963,1
+92,Mycobacterium leprae,Mycobacteriaceae,Leprosy; Hansen's disease,CINGULATA,direct,0.001,respiratory_droplets,Extracellular,Bacteria,Non-motile,No,3.633266,2
+93,Mycobacterium marinum,Mycobacteriaceae,Aquarium granuloma; Fish tank granuloma; Swimming pool granuloma,ENVIRONMENT,direct,0,via_environment,Extracellular,Bacteria,Non-motile,No,3.058046,1
+94,Mycobacterium tuberculosis,Mycobacteriaceae,Tuberculosis,PRIMATES,not_zoonotic,0.21,respiratory_droplets,Facultative intracellular,Bacteria,Non-motile,No,4.671025,4
+95,Neisseria gonorrhoeae,Neisseriaceae,Gonorrhea,PRIMATES,not_zoonotic,3.37E-05,bodily_fluids,Facultative intracellular,Bacteria,Non-motile,No,3.98331,4
+96,Neisseria meningitidis,Neisseriaceae,Meningococcal disease; Meningococcal meningitis,PRIMATES,not_zoonotic,0.042,respiratory_droplets,Extracellular,Bacteria,Non-motile,No,3.893484,4
+97,Neorickettsia sennetsu,Anaplasmataceae,Sennetsi ehrlichiosis,FISH,direct,0,vector,Obligate intracellular,Bacteria,Non-motile,No,1,1
+98,New Jersey vesiculovirus,Rhabdoviridae,New Jersey vesiculovirus,CETARTIODACTYLA,direct,0,vector,Obligate intracellular,Virus,NA,NA,0.778151,1
+99,Newcastle disease virus,Paramyxoviridae,Newcastle disease,AVES,bridged,0,bodily_fluids,Obligate intracellular,Virus,NA,NA,3.715167,1
+100,Nipah henipavirus,Paramyxoviridae,Nipah henipavirus,CHIROPTERA,bridged,0.425532,bodily_fluids,Obligate intracellular,Virus,NA,NA,3.237292,1
+101,Nipah henipavirus,Paramyxoviridae,Nipah henipavirus,CHIROPTERA,direct,0.651885,bodily_fluids,Obligate intracellular,Virus,NA,NA,3.237292,1
+102,Nocardia asteroides,Nocardiaceae,Nocardiosis,ENVIRONMENT,direct,0.345,via_environment,Facultative intracellular,Bacteria,Non-motile,No,3.024486,1
+103,Omsk hemorrhagic fever virus,Flaviviridae,Omsk hemorrhagic fever,RODENTIA,direct,0.0175,vector,Obligate intracellular,Virus,NA,NA,1.568202,1
+104,Orf virus,Poxviridae,Contagious ecthyma; Orf,CETARTIODACTYLA,direct,0,skin_contact,Obligate intracellular,Virus,NA,NA,2.64836,1
+105,Orientia tsutsugamushi,Rickettsiaceae,Scrub typhus; Bush typhus,RODENTIA,direct,0.06,vector,Obligate intracellular,Bacteria,Non-motile,No,2.870404,1
+106,Orthohepevirus A,Hepeviridae,Orthohepevirus A,CETARTIODACTYLA,direct,0.025,via_environment,Obligate intracellular,Virus,NA,NA,1.908485,4
+107,Powassan virus,Flaviviridae,Powassan virus,RODENTIA,direct,0.116022,vector,Obligate intracellular,Virus,NA,NA,2.664642,1
+108,Primate T-lymphotropic virus 1,Retroviridae,T-cell leukemia,PRIMATES,direct,0,bodily_fluids,Obligate intracellular,Virus,NA,NA,2.146128,4
+109,Primate T-lymphotropic virus 2,Retroviridae,Primate T-lymphotropic virus 2,PRIMATES,direct,0,bodily_fluids,Obligate intracellular,Virus,NA,NA,0,4
+110,Primate T-lymphotropic virus 3,Retroviridae,Primate T-lymphotropic virus 3,PRIMATES,direct,0,bodily_fluids,Obligate intracellular,Virus,NA,NA,0,4
+111,Pseudocowpox virus,Poxviridae,Pseudocowpox,CETARTIODACTYLA,direct,0,skin_contact,Obligate intracellular,Virus,NA,NA,1.662758,1
+112,Puumala hantavirus,Bunyaviridae,Nephropathia epidemica; Epidemic nephropathy,RODENTIA,direct,0.0055,via_environment,Obligate intracellular,Virus,NA,NA,2.383815,1
+113,Rabies lyssavirus,Rhabdoviridae,Rabies,CHIROPTERA,direct,1,animal_bite,Obligate intracellular,Virus,NA,NA,1.230449,1
+114,Rhinovirus A,Picornaviridae,Common cold,PRIMATES,not_zoonotic,0,respiratory_droplets,Obligate intracellular,Virus,NA,NA,1.69897,4
+115,Rickettsia africae,Rickettsiaceae,African tick bite fever,CETARTIODACTYLA,direct,0,vector,Obligate intracellular,Bacteria,Non-motile,No,2.187521,1
+116,Rickettsia akari,Rickettsiaceae,Rickettsialpox,RODENTIA,direct,0,vector,Obligate intracellular,Bacteria,Non-motile,No,1.897627,1
+117,Rickettsia australis,Rickettsiaceae,Queensland tick typhus,RODENTIA,direct,0.016129,vector,Obligate intracellular,Bacteria,Non-motile,No,1.672098,1
+118,Rickettsia conorii,Rickettsiaceae,"Boutonneuse fever; Mediterranean spotted fever; Israeli tick typhus, etc.",VECTOR,direct,0.05,vector,Obligate intracellular,Bacteria,Non-motile,No,2.816241,1
+119,Rickettsia felis,Rickettsiaceae,Cat-flea typhus,VECTOR,direct,0,vector,Obligate intracellular,Bacteria,Non-motile,No,2.531479,1
+120,Rickettsia honei,Rickettsiaceae,Flinders Island spotted fever,VECTOR,direct,0,vector,Obligate intracellular,Bacteria,Non-motile,No,1.50515,1
+121,Rickettsia japonica,Rickettsiaceae,Japanese spotted fever,RODENTIA,direct,0.033,vector,Obligate intracellular,Bacteria,Non-motile,No,2.017033,1
+122,Rickettsia prowazekii,Rickettsiaceae,Typhus fever,PRIMATES,not_zoonotic,0.25,vector,Obligate intracellular,Bacteria,Non-motile,No,2.802089,4
+123,Rickettsia rickettsii,Rickettsiaceae,Rocky Mountain spotted fever,RODENTIA,direct,0.075,vector,Obligate intracellular,Bacteria,Non-motile,No,2.856124,1
+124,Rickettsia sibirica,Rickettsiaceae,North Asian tick typhus; Siberian tick typhus,RODENTIA,direct,0,vector,Obligate intracellular,Bacteria,Non-motile,No,2.045323,1
+125,Rickettsia typhi,Rickettsiaceae,Murine typhus,RODENTIA,direct,0.04,vector,Obligate intracellular,Bacteria,Non-motile,No,2.670246,1
+126,Rift Valley fever phlebovirus,Bunyaviridae,Rift Valley fever,CETARTIODACTYLA,direct,0.01,vector,Obligate intracellular,Virus,NA,NA,1.39794,1
+127,Ross River virus,Togaviridae,Ross River fever; Epidemic polyarthritis,DIPROTODONTIA,direct,0,vector,Obligate intracellular,Virus,NA,NA,2.699838,1
+128,Rotavirus A,Reoviridae,Rotaviral enteritis,CETARTIODACTYLA,direct,0.003275,via_environment,Obligate intracellular,Virus,NA,NA,2.522444,4
+129,Rubella virus,Togaviridae,Rubella; Congenital rubella syndrome,PRIMATES,not_zoonotic,0.000168,respiratory_droplets,Obligate intracellular,Virus,NA,NA,3.375664,4
+130,Salmonella enterica subsp. enterica serovar Typhi,Enterobacteriaceae,Typhoid fever,PRIMATES,not_zoonotic,0.2,via_environment,Facultative intracellular,Bacteria,Motile,No,1.342423,4
+131,Sealpox virus,Poxviridae,Sealpox virus,CARNIVORA,direct,0,skin_contact,Obligate intracellular,Virus,NA,NA,0.845098,1
+132,Seoul hantavirus,Bunyaviridae,Hemorrhagic fever with renal syndrome,RODENTIA,direct,0,via_environment,Obligate intracellular,Virus,NA,NA,1.579784,1
+133,Severe acute respiratory syndrome-related coronavirus,Coronaviridae,Severe acute respiratory syndrome,CHIROPTERA,bridged,0.021937,respiratory_droplets,Obligate intracellular,Virus,NA,NA,1.041393,3
+134,SFTS phlebovirus,Bunyaviridae,Severe fever with thrombocytopenia syndrome,VECTOR,direct,0.145,vector,Obligate intracellular,Virus,NA,NA,0.90309,1
+135,Shigella dysenteriae,Enterobacteriaceae,Shigellosis; Bacillary dysentery,PRIMATES,not_zoonotic,0.067,via_environment,Facultative intracellular,Bacteria,Non-motile,No,3.218536,4
+136,Shuni orthobunyavirus,Peribunyaviridae,Shuni orthobunyavirus,CETARTIODACTYLA,direct,0,vector,Obligate intracellular,Virus,NA,NA,1.414973,1
+137,Sin Nombre hantavirus,Bunyaviridae,Hantavirus cardiopulmonary syndrome,RODENTIA,direct,0.380952,via_environment,Obligate intracellular,Virus,NA,NA,1.690196,1
+138,Sindbis virus,Togaviridae,Sindbis fever; Pogosta disease; Ockelbo disease; Karelian fever,AVES,direct,0,vector,Obligate intracellular,Virus,NA,NA,3.332438,1
+139,St. Louis encephalitis virus,Flaviviridae,Saint Louis encephalitis,AVES,direct,0.1,vector,Obligate intracellular,Virus,NA,NA,2.553883,1
+140,Streptobacillus moniliformis,Leptotrichiaceae,Rat bite fever,RODENTIA,direct,0.085,animal_bite,Facultative intracellular,Bacteria,Non-motile,No,2.363612,1
+141,Streptococcus pneumoniae,Streptococcaceae,Pneumococcal disease,PRIMATES,not_zoonotic,0.55,respiratory_droplets,Facultative intracellular,Bacteria,Non-motile,No,4.373666,4
+142,Streptomyces albus,Streptomycetaceae,Mycetoma,ENVIRONMENT,direct,0,via_environment,Extracellular,Bacteria,Non-motile,Yes,2.591065,1
+143,Suid alphaherpesvirus 1,Herpesviridae,Suid alphaherpesvirus 1,CETARTIODACTYLA,direct,0,skin_contact,Obligate intracellular,Virus,NA,NA,2.862728,1
+144,"Tatlockia micdadei, Legionella micdadei",Legionellaceae,Pittsburgh pneumonia agent,ENVIRONMENT,not_zoonotic,0.1,via_environment,Facultative intracellular,Bacteria,Motile,No,1.20412,1
+145,Tick-borne encephalitis virus,Flaviviridae,Tick-borne encephalitis,RODENTIA,direct,0.02,vector,Obligate intracellular,Virus,NA,NA,3.270213,1
+146,Tonate virus,Togaviridae,Tonate virus,AVES,direct,0.166667,vector,Obligate intracellular,Virus,NA,NA,1.30103,1
+147,Treponema pallidum,Spirochaetaceae,"Syphilis, Bejel, Yaws; Pinta",PRIMATES,not_zoonotic,0.1,bodily_fluids,Extracellular,Bacteria,Motile,No,3.633064,4
+148,Variola virus,Poxviridae,Smallpox,PRIMATES,not_zoonotic,0.3,respiratory_droplets,Obligate intracellular,Virus,NA,NA,2.778874,4
+149,Venezuelan equine encephalitis virus,Togaviridae,Venezuelan equine encephalomyelitis,RODENTIA,direct,0.001949,vector,Obligate intracellular,Virus,NA,NA,2.79588,1
+150,Vibrio cholerae,Vibrionaceae,Cholera,ENVIRONMENT,not_zoonotic,0.375,via_environment,Extracellular,Bacteria,Motile,No,3.975845,2
+151,West Nile virus,Flaviviridae,West Nile fever,AVES,direct,0.046138,vector,Obligate intracellular,Virus,NA,NA,3.793301,1
+152,Western chimpanzee simian foamy virus,Retroviridae,Western chimpanzee simian foamy virus,PRIMATES,direct,0,animal_bite,Obligate intracellular,Virus,NA,NA,0,1
+153,Western equine encephalitis virus,Togaviridae,Western equine encephalomyelitis,AVES,direct,0.04,vector,Obligate intracellular,Virus,NA,NA,2.30963,1
+154,Whitewater Arroyo mammarenavirus,Arenaviridae,Whitewater Arroyo mammarenavirus,RODENTIA,direct,1,via_environment,Obligate intracellular,Virus,NA,NA,1.908485,1
+155,Yellow fever virus,Flaviviridae,Yellow fever,PRIMATES,direct,0.325,vector,Obligate intracellular,Virus,NA,NA,3.121231,4
+156,Zika virus,Flaviviridae,Zika fever,PRIMATES,direct,0.083,vector,Obligate intracellular,Virus,NA,NA,3.709863,4
